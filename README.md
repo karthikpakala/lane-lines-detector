@@ -8,7 +8,7 @@
 
 [image1]: ./my_pipeline.png 
 
-[image1]: ./yellow_fail_frame.png 
+[image2]: ./yellow_fail_frame.png 
 
 
 Overview
